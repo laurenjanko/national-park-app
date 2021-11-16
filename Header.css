@@ -1,0 +1,12 @@
+nav{
+    height: 50px;
+    border: 1px solid white;
+}
+.div-header{
+    width: 80px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
